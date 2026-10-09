@@ -1,0 +1,3 @@
+# Client data stays local - never commit customer info
+data/*
+!data/.gitkeep
